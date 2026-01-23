@@ -141,22 +141,22 @@ async function loadResources() {
 
   // Articles
   mediaRegistry.articles.forEach(file => {
-    promises.push(loadItem(`/content/articles/${file}`, 'article'));
+    promises.push(loadItem(`content/articles/${file}`, 'article'));
   });
 
   // Videos
   mediaRegistry.videos.forEach(file => {
-    promises.push(loadItem(`/content/videos/${file}`, 'video'));
+    promises.push(loadItem(`content/videos/${file}`, 'video'));
   });
 
   // Plans
   mediaRegistry.plans.forEach(file => {
-    promises.push(loadItem(`/content/plans/${file}`, 'plan'));
+    promises.push(loadItem(`content/plans/${file}`, 'plan'));
   });
 
   // Posters
   mediaRegistry.posters.forEach(file => {
-    promises.push(loadItem(`/content/posters/${file}`, 'poster'));
+    promises.push(loadItem(`content/posters/${file}`, 'poster'));
   });
 
   allItems = await Promise.all(promises);
@@ -166,6 +166,7 @@ async function loadResources() {
 async function loadItem(path, type) {
   try {
     const res = await fetch(path);
+    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
     const text = await res.text();
     const { data, content } = parseFrontmatter(text);
     return { ...data, content, type, id: path };
