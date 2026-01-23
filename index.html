@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BibleProject | Library</title>
+</head>
+
+<body>
+  <nav>
+    <div class="container nav-content">
+      <div class="logo"><img src="/logo.png" alt="BibleProject" style="height: 40px;"><span class="lang-label">-
+          Ελληνικά</span></div>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Αναζήτηση..." aria-label="Search">
+      </div>
+    </div>
+  </nav>
+
+  <main id="app">
+    <header class="hero container">
+      <h1>BibleProject - Ελληνικά</h1>
+      <p>Μια βιβλιοθήκη με άρθρα, βίντεο, αφίσες και σχέδια ανάγνωσης που σας βοηθούν να γνωρίσετε την Αγία Γραφή σαν
+        μια ενιαία ιστορία που οδηγεί στον Ιησού Χριστό.</p>
+    </header>
+
+    <section class="container">
+      <div class="filter-bar">
+        <button class="filter-btn active" data-filter="all">Όλο το Υλικό</button>
+        <button class="filter-btn" data-filter="article">Άρθρα</button>
+        <button class="filter-btn" data-filter="video">Βίντεο</button>
+        <button class="filter-btn" data-filter="poster">Αφίσες</button>
+        <button class="filter-btn" data-filter="plan">Σχέδια Ανάγνωσης</button>
+      </div>
+
+      <div class="sub-filter-bar" id="sub-filter-bar">
+        <!-- Dynamically populated -->
+      </div>
+
+      <div class="library-grid" id="library-grid">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+  </main>
+
+  <div id="content-viewer">
+    <button class="close-btn" id="close-viewer">&times;</button>
+    <div class="viewer-content" id="viewer-container">
+      <!-- Rendered content -->
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
