@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Εφεσίους"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/ephesians/16_Greek_Ephesians_Poster_001.png"
+image: "content/posters/previews/nt-ephesians.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-ephesians.webp"
+downloadUrl: "content/posters/original/nt-ephesians.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Κατά Λουκάν"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/luke_1-9/08_Greek_Luke_Poster_002.png"
+image: "content/posters/previews/nt-luke.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-luke.webp"
+downloadUrl: "content/posters/original/nt-luke.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

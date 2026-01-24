@@ -1,9 +1,11 @@
 ---
 collection: "Ο Χαρακτήρας του Θεού: Μελέτες Λέξεων"
 title: "Χάρη"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/ell/watch/word_studies/character_of_god/grace/03_greek_characterofgod_grace_poster_002.png"
+image: "content/posters/previews/character-grace.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/character-grace.webp"
+downloadUrl: "content/posters/original/character-grace.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

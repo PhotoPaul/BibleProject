@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Μιχαίας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/micah/24_Greek_Micah_Poster_001.png"
+image: "content/posters/previews/ot-micah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-micah.webp"
+downloadUrl: "content/posters/original/ot-micah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

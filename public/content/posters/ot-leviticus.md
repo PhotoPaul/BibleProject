@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Λευιτικόν"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/leviticus/06_Greek_Leviticus_Poster_001.png"
+image: "content/posters/previews/ot-leviticus.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-leviticus.webp"
+downloadUrl: "content/posters/original/ot-leviticus.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

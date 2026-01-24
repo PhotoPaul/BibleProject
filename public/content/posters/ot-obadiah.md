@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Οβδιού"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/obadiah/22_Greek_Obadiah_Poster_001.png"
+image: "content/posters/previews/ot-obadiah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-obadiah.webp"
+downloadUrl: "content/posters/original/ot-obadiah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

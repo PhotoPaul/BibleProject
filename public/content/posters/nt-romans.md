@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Ρωμαίους"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/romans_1-4/12_Greek_Romans_Poster_001.png"
+image: "content/posters/previews/nt-romans.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-romans.webp"
+downloadUrl: "content/posters/original/nt-romans.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

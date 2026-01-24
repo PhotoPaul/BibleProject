@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Κατά Ματθαίον"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/matthew_1-13/03_Greek_Matthew_Poster_001.png"
+image: "content/posters/previews/nt-matthew.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-matthew.webp"
+downloadUrl: "content/posters/original/nt-matthew.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

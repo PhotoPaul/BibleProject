@@ -1,9 +1,11 @@
 ---
 collection: "Ο Χαρακτήρας του Θεού: Μελέτες Λέξεων"
 title: "Μακροθυμία"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/ell/watch/word_studies/character_of_god/slow_to_anger/04_greek_characterofgod_slowtoanger_poster_002.png"
+image: "content/posters/previews/character-slow-to-anger.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/character-slow-to-anger.webp"
+downloadUrl: "content/posters/original/character-slow-to-anger.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

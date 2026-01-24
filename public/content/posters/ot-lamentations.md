@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Θρήνοι"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/lamentations/36_Greek_Lamentations_Poster_001.png"
+image: "content/posters/previews/ot-lamentations.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-lamentations.webp"
+downloadUrl: "content/posters/original/ot-lamentations.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ησαΐας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/isaiah_1-39/15_Greek_Isaiah_Poster_001.png"
+image: "content/posters/previews/ot-isaiah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-isaiah.webp"
+downloadUrl: "content/posters/original/ot-isaiah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

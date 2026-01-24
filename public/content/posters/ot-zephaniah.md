@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Σοφονίας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/zephaniah/27_Greek_Zephaniah_Poster_001.png"
+image: "content/posters/previews/ot-zephaniah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-zephaniah.webp"
+downloadUrl: "content/posters/original/ot-zephaniah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

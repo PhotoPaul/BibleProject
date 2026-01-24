@@ -1,9 +1,11 @@
 ---
 collection: "Ο Χαρακτήρας του Θεού: Μελέτες Λέξεων"
 title: "Αιώνια Αγάπη"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/ell/watch/word_studies/character_of_god/loyal_love/05_greek_characterofgod_loyallove_poster_001.png"
+image: "content/posters/previews/character-loyal-love.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/character-loyal-love.webp"
+downloadUrl: "content/posters/original/character-loyal-love.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

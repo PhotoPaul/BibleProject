@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιεζεκιήλ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/ezekiel_1-33/18_Greek_Ezekiel_Poster_001.png"
+image: "content/posters/previews/ot-ezekiel.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-ezekiel.webp"
+downloadUrl: "content/posters/original/ot-ezekiel.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Προσμένουμε την Έλευση του Χριστού"
 title: "Χαρά"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/chara_joy/09_Greek_Chara_Poster_002.png"
+image: "content/posters/previews/advent-joy.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/advent-joy.webp"
+downloadUrl: "content/posters/original/advent-joy.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

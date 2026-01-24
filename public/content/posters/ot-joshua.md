@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιησούς του Ναυή"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/joshua/09_Greek_Joshua_Poster_001.png"
+image: "content/posters/previews/ot-joshua.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-joshua.webp"
+downloadUrl: "content/posters/original/ot-joshua.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

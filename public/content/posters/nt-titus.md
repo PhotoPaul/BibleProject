@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Τίτον"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/titus/23_Greek_Titus_Poster_002.png"
+image: "content/posters/previews/nt-titus.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-titus.webp"
+downloadUrl: "content/posters/original/nt-titus.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

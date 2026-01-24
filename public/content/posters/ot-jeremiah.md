@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιερεμίας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/jeremiah/16_Greek_Jeremiah_Poster_001.png"
+image: "content/posters/previews/ot-jeremiah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-jeremiah.webp"
+downloadUrl: "content/posters/original/ot-jeremiah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

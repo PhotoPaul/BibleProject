@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιωάννου Α', Β' & Γ'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1-3_john/29_Greek_1-3John_Poster_001.png"
+image: "content/posters/previews/nt-1-3john.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-1-3john.webp"
+downloadUrl: "content/posters/original/nt-1-3john.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

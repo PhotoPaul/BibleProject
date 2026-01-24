@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Κολοσσαείς"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/colossians/18_Greek_Colossians_Poster_002.png"
+image: "content/posters/previews/nt-colossians.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-colossians.webp"
+downloadUrl: "content/posters/original/nt-colossians.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Παλαιά Διαθήκη / ΤαΝάΚ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/tanak_old_testament_overview/01_Greek_TaNaK_OldTestamentOverview_Poster_001.png"
+image: "content/posters/previews/ot-overview.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-overview.webp"
+downloadUrl: "content/posters/original/ot-overview.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

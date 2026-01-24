@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Κορινθίους Α'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1_corinthians/13_Greek_1Corinthians_Poster_001.png"
+image: "content/posters/previews/nt-1corinthians.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-1corinthians.webp"
+downloadUrl: "content/posters/original/nt-1corinthians.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

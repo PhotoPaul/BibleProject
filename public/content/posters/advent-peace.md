@@ -1,9 +1,11 @@
 ---
 collection: "Προσμένουμε την Έλευση του Χριστού"
 title: "Ειρήνη"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/shalom_peace/07_Greek_Shalom_Poster_002.png"
+image: "content/posters/previews/advent-peace.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/advent-peace.webp"
+downloadUrl: "content/posters/original/advent-peace.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Μαλαχίας"
-image: "https://tbp-arc-assets.s3.us-west-2.amazonaws.com/localized/ell/poster/malachi/30_Greek_Malachi_Poster_001.png"
+image: "content/posters/previews/ot-malachi.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-malachi.webp"
+downloadUrl: "content/posters/original/ot-malachi.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

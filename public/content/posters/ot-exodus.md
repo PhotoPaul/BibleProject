@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Έξοδος"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/exodus_1-18/04_Greek_Exodus_Poster_001.png"
+image: "content/posters/previews/ot-exodus.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-exodus.webp"
+downloadUrl: "content/posters/original/ot-exodus.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

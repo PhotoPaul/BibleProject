@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Δευτερονόμιον"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/deuteronomy/07_Greek_Numbers_Poster_001.png"
+image: "content/posters/previews/ot-deuteronomy.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-deuteronomy.webp"
+downloadUrl: "content/posters/original/ot-deuteronomy.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

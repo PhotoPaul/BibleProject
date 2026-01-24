@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Γένεσις"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/genesis_1-11/03_Greek_Genesis_Poster_001.png"
+image: "content/posters/previews/ot-genesis.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-genesis.webp"
+downloadUrl: "content/posters/original/ot-genesis.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ναούμ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/nahum/25_Greek_Nahum_Poster_001.png"
+image: "content/posters/previews/ot-nahum.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-nahum.webp"
+downloadUrl: "content/posters/original/ot-nahum.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

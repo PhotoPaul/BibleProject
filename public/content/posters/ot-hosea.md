@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ωσηέ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/hosea/19_Greek_Hosea_Poster_001.png"
+image: "content/posters/previews/ot-hosea.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-hosea.webp"
+downloadUrl: "content/posters/original/ot-hosea.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

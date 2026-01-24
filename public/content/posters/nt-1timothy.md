@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Τιμόθεον Α'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1_timothy/21_Greek_1Timothy_Poster_001.png"
+image: "content/posters/previews/nt-1timothy.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-1timothy.webp"
+downloadUrl: "content/posters/original/nt-1timothy.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

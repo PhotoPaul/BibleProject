@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Γαλάτας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/galatians/15_Greek_Galatians_Poster_001.png"
+image: "content/posters/previews/nt-galatians.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-galatians.webp"
+downloadUrl: "content/posters/original/nt-galatians.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

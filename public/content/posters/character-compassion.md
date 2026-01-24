@@ -1,9 +1,11 @@
 ---
 collection: "Ο Χαρακτήρας του Θεού: Μελέτες Λέξεων"
 title: "Ευσπλαχνία"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/ell/watch/word_studies/character_of_god/compassion/02_greek_characterofgod_compassion_poster_002.png"
+image: "content/posters/previews/character-compassion.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/character-compassion.webp"
+downloadUrl: "content/posters/original/character-compassion.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

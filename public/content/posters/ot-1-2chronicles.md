@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Α' & Β' Χρονικών"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1_2_chronicles/41_Greek_1-2-Chronicles_Poster_001.png"
+image: "content/posters/previews/ot-1-2chronicles.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-1-2chronicles.webp"
+downloadUrl: "content/posters/original/ot-1-2chronicles.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

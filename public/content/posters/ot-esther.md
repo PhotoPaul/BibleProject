@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Εσθήρ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/esther/39_Greek_Esther_Poster_001.png"
+image: "content/posters/previews/ot-esther.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-esther.webp"
+downloadUrl: "content/posters/original/ot-esther.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

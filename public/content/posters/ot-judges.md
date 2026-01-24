@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Κριταί"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/judges/10_Greek_Judges_Poster_001.png"
+image: "content/posters/previews/ot-judges.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-judges.webp"
+downloadUrl: "content/posters/original/ot-judges.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Προσμένουμε την Έλευση του Χριστού"
 title: "Αγάπη"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/agape_love/10_Greek_Agape_Poster_001.png"
+image: "content/posters/previews/advent-love.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/advent-love.webp"
+downloadUrl: "content/posters/original/advent-love.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

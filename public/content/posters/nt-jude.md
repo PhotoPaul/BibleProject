@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιούδα"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/jude/30_Greek_Jude_Poster_001.png"
+image: "content/posters/previews/nt-jude.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-jude.webp"
+downloadUrl: "content/posters/original/nt-jude.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

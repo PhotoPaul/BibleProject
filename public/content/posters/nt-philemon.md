@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Φιλήμονα"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/philemon/24_Greek_Philemon_Poster_001.png"
+image: "content/posters/previews/nt-philemon.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-philemon.webp"
+downloadUrl: "content/posters/original/nt-philemon.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

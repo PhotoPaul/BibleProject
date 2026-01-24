@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Αγγαίος"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/haggai/28_Greek_Haggai_Poster_001.png"
+image: "content/posters/previews/ot-haggai.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-haggai.webp"
+downloadUrl: "content/posters/original/ot-haggai.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

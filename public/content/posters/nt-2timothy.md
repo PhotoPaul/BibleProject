@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Τιμόθεον Β'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/2_timothy/22_Greek_2Timothy_Poster_002.png"
+image: "content/posters/previews/nt-2timothy.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-2timothy.webp"
+downloadUrl: "content/posters/original/nt-2timothy.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -334,7 +334,7 @@ function openViewer(item, pushState = true) {
       <div style="text-align:center">
         <img src="${item.image}" style="width:100%; border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin-bottom:2rem">
         <p>${item.content}</p>
-        <a href="${item.image}" download class="filter-btn active" style="text-decoration:none">Λήψη Αφίσας (Υψηλή Ανάλυση)</a>
+        <a href="${item.downloadUrl || item.image}" download class="filter-btn active" style="text-decoration:none">Λήψη Αφίσας (Υψηλή Ανάλυση)</a>
       </div>
       ${getEnglishLinkHtml(item.englishUrl)}
     `;

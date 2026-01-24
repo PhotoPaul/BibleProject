@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Προς Θεσσαλονικείς Α'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1_thessalonians/19_Greek_1Thessalonians_Poster_001.png"
+image: "content/posters/previews/nt-1thessalonians.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-1thessalonians.webp"
+downloadUrl: "content/posters/original/nt-1thessalonians.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

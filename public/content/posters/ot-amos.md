@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Αμώς"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/amos/21_Greek_Amos_Poster_001.png"
+image: "content/posters/previews/ot-amos.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-amos.webp"
+downloadUrl: "content/posters/original/ot-amos.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

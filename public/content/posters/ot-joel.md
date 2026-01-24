@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιωήλ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/joel/20_Greek_Joel_Poster_001.png"
+image: "content/posters/previews/ot-joel.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-joel.webp"
+downloadUrl: "content/posters/original/ot-joel.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

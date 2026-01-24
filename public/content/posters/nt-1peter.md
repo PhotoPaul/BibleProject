@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Πέτρου Α'"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/1_peter/27_Greek_1Peter_Poster_001.png"
+image: "content/posters/previews/nt-1peter.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-1peter.webp"
+downloadUrl: "content/posters/original/nt-1peter.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

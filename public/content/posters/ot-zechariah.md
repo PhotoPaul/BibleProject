@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ζαχαρίας"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/zechariah/29_Greek_Zechariah_Poster_001.png"
+image: "content/posters/previews/ot-zechariah.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-zechariah.webp"
+downloadUrl: "content/posters/original/ot-zechariah.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

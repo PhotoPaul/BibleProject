@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιακώβου"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/james/26_Greek_James_Poster_001.png"
+image: "content/posters/previews/nt-james.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-james.webp"
+downloadUrl: "content/posters/original/nt-james.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

@@ -1,9 +1,11 @@
 ---
 collection: "Παλαιά Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Ιώβ"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/job/33_Greek_Job_Poster_001.png"
+image: "content/posters/previews/ot-job.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/ot-job.webp"
+downloadUrl: "content/posters/original/ot-job.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.

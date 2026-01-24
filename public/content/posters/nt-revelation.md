@@ -1,9 +1,11 @@
 ---
 collection: "Καινή Διαθήκη: Επισκόπηση Βιβλίων"
 title: "Επισκόπηση: Αποκάλυψις Ιωάννου"
-image: "https://d2vxzjjzuh0t18.cloudfront.net/localized/ell/poster/revelation_1-11/32_Greek_Revelations_poster_001.png"
+image: "content/posters/previews/nt-revelation.webp"
 type: "poster"
 resolution: "4K"
+thumbnail: "content/posters/thumbs/nt-revelation.webp"
+downloadUrl: "content/posters/original/nt-revelation.png"
 ---
 
 Αφίσα υψηλής ανάλυσης για λήψη.
