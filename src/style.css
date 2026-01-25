@@ -69,6 +69,8 @@ nav {
   display: flex;
   align-items: center;
   gap: 0.35rem;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .lang-label {
@@ -86,6 +88,7 @@ nav {
   padding: 0.5rem 1.25rem;
   border-radius: var(--radius-pill);
   width: 350px;
+  max-width: 40%;
   transition: var(--transition);
 }
 
@@ -350,5 +353,24 @@ nav {
 
   .nav-content {
     padding: 0 1rem;
+    gap: 1rem;
+  }
+
+  .logo {
+    font-size: 1.1rem;
+  }
+
+  .logo img {
+    height: 30px !important;
+  }
+
+  .search-container {
+    width: auto;
+    max-width: 150px;
+    padding: 0.4rem 0.75rem;
+  }
+
+  .lang-label {
+    transform: translateY(-2px);
   }
 }
